@@ -54,14 +54,16 @@ public class HomeController : Controller
 
     public IActionResult Level(int nivel, string respuesta){
         bool verificar = Quiz.comprobar(respuesta, nivel);
-        
-        if(verificar == true && nivel<5){
-            ViewBag.Incorrecto="";
-            return View ("Nivel" + (Quiz.VerNivel()));
-        }
-        else if (verificar == true && nivel== 5){
-            ViewBag.Incorrecto="";
-            return View ("ganar");
+        int nivelActual = Quiz.VerNivel();
+
+        if(verificar){
+            if(nivelActual==2){
+                return View ("ganar");
+            }
+            else{
+                ViewBag.Incorrecto="";
+                return View ("Nivel" + (Quiz.VerNivel()));
+            }
         }
         else{
             ViewBag.Incorrecto="Intenta de nuevo :)";

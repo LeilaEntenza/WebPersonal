@@ -25,4 +25,7 @@ class Quiz
     public static int VerNivel(){
         return nivel;
     }
+    public static int VerPuntos(){
+        return puntos;
+    }
 }

@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"]= "Nivel1";
+}
+
+<h1>Pregunta 1:</h1>
+<p>¿Cómo se llama el bajista de Iron Maiden?</p>
+<form action='@Url.Action("Level", "Home")'>
+    <input type="hidden" name="level" value=1>
+    <input autocomplete="off" type="letter" name="clave" placeholder="" required><br>
+    <div class="input">
+        <input class="btn btn-primary" type="submit" name="Enviar">
+        <input class="btn btn-secondary" type="reset" name="Resetear">
+    </div>
+</form>

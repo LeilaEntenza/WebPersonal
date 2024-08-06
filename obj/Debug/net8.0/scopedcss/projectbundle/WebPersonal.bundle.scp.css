@@ -47,3 +47,11 @@ button.accept-policy[b-fdl1vrnqnp] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.footer p[b-fdl1vrnqnp] {
+  color: rgb(49, 49, 49);
+}
+
+.bground[b-fdl1vrnqnp]{
+  background-color: #676c80;
+}

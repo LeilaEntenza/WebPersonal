@@ -3,11 +3,14 @@
 }
 <h1>Pregunta 1:</h1>
 <p>¿Cómo se llama el bajista de Iron Maiden?</p>
+
 <form action='@Url.Action("Level", "Home")'>
+    <div class="centrar">
     <input type="hidden" name="respuesta" value=1>
     <input autocomplete="off" type="letter" name="respuesta" placeholder="" required><br>
-    <div class="input">
+    <div>
         <input class="btn btn-primary" type="submit" name="Enviar">
         <input class="btn btn-secondary" type="reset" name="Resetear">
+    </div>
     </div>
 </form>

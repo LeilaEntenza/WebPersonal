@@ -52,12 +52,12 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 
-    public IActionResult Level(int nivel, string respuesta){
-        bool verificar = Quiz.comprobar(respuesta, nivel);
+    public IActionResult Level(string respuesta){
+        bool verificar = Quiz.comprobar(respuesta);
         int nivelActual = Quiz.VerNivel();
 
         if(verificar){
-            if(nivelActual==2){
+            if(nivelActual==5){
                 return View ("ganar");
             }
             else{

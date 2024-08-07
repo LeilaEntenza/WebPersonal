@@ -1,315 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebPersonal.bundle.scp.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebPersonal.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebPersonal.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\AFlairForTheDramatic.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\AFlairForTheDramatic.jpg",
       "PackagePath": "staticwebassets\\images\\AFlairForTheDramatic.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Bathory.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\Bathory.jpg",
       "PackagePath": "staticwebassets\\images\\Bathory.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Bathory1984.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\Bathory1984.jpg",
       "PackagePath": "staticwebassets\\images\\Bathory1984.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\BloodFireDeath.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\BloodFireDeath.jpg",
       "PackagePath": "staticwebassets\\images\\BloodFireDeath.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\CollidewiththeSky.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\CollidewiththeSky.jpg",
       "PackagePath": "staticwebassets\\images\\CollidewiththeSky.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Hammerheart.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\Hammerheart.jpg",
       "PackagePath": "staticwebassets\\images\\Hammerheart.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\InUtero.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\InUtero.jpg",
       "PackagePath": "staticwebassets\\images\\InUtero.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\IronMaiden.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\IronMaiden.jpg",
       "PackagePath": "staticwebassets\\images\\IronMaiden.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\MTVunplugged.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\MTVunplugged.jpg",
       "PackagePath": "staticwebassets\\images\\MTVunplugged.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Misadventures.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\Misadventures.jpg",
       "PackagePath": "staticwebassets\\images\\Misadventures.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Nevermind.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\Nevermind.jpg",
       "PackagePath": "staticwebassets\\images\\Nevermind.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\PieceofMind.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\PieceofMind.jpg",
       "PackagePath": "staticwebassets\\images\\PieceofMind.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\PierceTheVeil.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\PierceTheVeil.jpg",
       "PackagePath": "staticwebassets\\images\\PierceTheVeil.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\SelfishMachines.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\SelfishMachines.jpg",
       "PackagePath": "staticwebassets\\images\\SelfishMachines.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\TheNumberoftheBeast.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\TheNumberoftheBeast.jpg",
       "PackagePath": "staticwebassets\\images\\TheNumberoftheBeast.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\UnderTheSign.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\UnderTheSign.jpg",
       "PackagePath": "staticwebassets\\images\\UnderTheSign.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\ironmaidenAlbum.jpg",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\images\\ironmaidenAlbum.jpg",
       "PackagePath": "staticwebassets\\images\\ironmaidenAlbum.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\48385438\\WebPersonal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,5 +1,8 @@
 ﻿@{
     ViewData["Title"] = "Index";
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 }
 
 <h1>Mis bandas favoritas</h1>
@@ -8,6 +11,7 @@
 <p>Si te gustan estas bandas acá encontraras un quiz:</p>
 <a href='@Url.Action("Empezar", "Home")'><h3>Empezar quiz</h3></a>
 <a href='@Url.Action("IniciarRescatar", "Home")'><h3>Rescata al bajista</h3></a>
-<img class="fotosindex" src="/images/IronMaiden.jpg">
-<img class="fotosindex" src="/images/PierceTheVeil.jpg">
-<img class="fotosindex" src="/images/Bathory.jpg">
+<a href='@Url.Action("IronMaiden", "Home")'><img class="fotosindex" src="/images/IronMaiden.jpg"></a>
+<a href='@Url.Action("PierceTheVeil", "Home")'><img class="fotosindex" src="/images/PierceTheVeil.jpg"></a>
+<a href='@Url.Action("Bathory", "Home")'><img class="fotosindex" src="/images/Bathory.jpg"></a>
+<a href='@Url.Action("Nirvana", "Home")'><img class="fotosindex" src="/images/Nirvana.png"></a>

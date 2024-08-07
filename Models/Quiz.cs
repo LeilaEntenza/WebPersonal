@@ -19,6 +19,9 @@ class Quiz
             nivel++;
             puntos+=3000;
         }
+        else{
+            puntos-=1000;
+        }
         return verificar;
     }
 

@@ -55,7 +55,8 @@ public class HomeController : Controller
     public IActionResult Level(string respuesta){
         bool verificar = Quiz.comprobar(respuesta);
         int nivelActual = Quiz.VerNivel();
-
+        int puntos = Quiz.VerPuntos();
+        ViewBag.Puntos=puntos;
         if(verificar){
             if(nivelActual==5){
                 return View ("ganar");

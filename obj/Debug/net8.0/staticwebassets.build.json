@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gL6uxoBr9YFdkFWKCjlZ871hKozSv+8LZVK7OFJbF4s=",
+  "Hash": "d5LXxEXpv9mS0iOQ2djdPRDoZbgfb5CHl89Jf/UTFKA=",
   "Source": "WebPersonal",
   "BasePath": "_content/WebPersonal",
   "Mode": "Default",
@@ -319,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Nevermind.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\Nirvana.png",
+      "SourceId": "WebPersonal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\",
+      "BasePath": "_content/WebPersonal",
+      "RelativePath": "images/Nirvana.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Nirvana.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Documents\\GitHub\\WebPersonal\\wwwroot\\images\\PieceofMind.jpg",

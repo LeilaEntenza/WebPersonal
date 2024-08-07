@@ -16,16 +16,26 @@ html {
   position: relative;
   min-height: 100%;
 }
+p{
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
+}
 
 body {
   margin-bottom: 60px;
   background-color: #737DA4;
+  font-family: "Platypi", serif;
+  font-optical-sizing: auto;
 }
 
 h1{
   background-color: #343d61;  
   text-align: center;
   color: aliceblue;
+}
+
+p{
+  font-size: large;
 }
 
 h2{
@@ -67,7 +77,7 @@ h3{
 }
 
 .fotosindex{
-  width: 26%;
+  width: 40%;
   border-radius: 100%;
   margin: 3%;
 }

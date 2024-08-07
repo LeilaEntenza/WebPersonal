@@ -3,8 +3,8 @@
 }
 
 <h1>¡Jaime ha sido secuestrado!</h1>
-<p>Jaime Preciado (bajista de Pierce The Veil) fue secuestrado en un acto de odio por ser bajista. Tu misión es rescatarlo para que algún día pueda ser escuchado.</p>
-<form action='@Url.Action("IniciarRescatar", "Home")'>
+<p>Jaime Preciado (bajista de Pierce The Veil) fue secuestrado en un acto de odio por ser bajista. Tu misión es rescatarlo para que algún día pueda ser escuchado. Para salvarlo de este cruel destino, deberás aprender a leer mentes y adivinar un número con una pequeña ayuda.</p>
+<form action='@Url.Action("Jugar", "Home")'>
     <div class="centrar">
         <input autocomplete="off" type="number" name="respuesta" placeholder="" required><br>
         <div>
@@ -13,4 +13,4 @@
         </div>
     </div>
 </form>
-<h1>@ViewBag.correccion</h1>
+<h2>@ViewBag.correccion</h2>

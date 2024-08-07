@@ -73,15 +73,16 @@ public class HomeController : Controller
 
     public IActionResult IniciarRescatar(){
         int r = Rescatar.generarRandom();
-        int rta, cantIntentos=0;
+        return View ("Rescatar");
+    }
+
+    public IActionResult Jugar(int respuesta){
+        int cantIntentos=0;
         string devolver;
-        do{
-            return View ("Rescatar");
-            devolver=Rescatar.devolverRespuesta(rta);
-            if(cantIntentos>0){
-                ViewBag.correccion=devolver;
-            }
-            cantIntentos++;
-        }while(devolver!="Es igual");
+        devolver=Rescatar.devolverRespuesta(respuesta);
+        ViewBag.correccion=devolver;
+        cantIntentos++;
+        if(respuesta!=Rescatar.ReturnRD()) return View ("Rescatar");
+        else return View ("ganar");
     }
 }

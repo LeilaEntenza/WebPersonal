@@ -19329,6 +19329,11 @@
   "RootNamespace": "WebPersonal",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\48385438\\WebPersonal\\Views\\Home\\Rescatar.cshtml",
+      "TargetPath": "Views\\Home\\Rescatar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\48385438\\WebPersonal\\Views\\Home\\Nirvana.cshtml",
       "TargetPath": "Views\\Home\\Nirvana.cshtml",
       "FileKind": "mvc"

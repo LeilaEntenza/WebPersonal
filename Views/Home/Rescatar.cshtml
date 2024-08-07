@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"]="Rescatar";
+}
+
+<h1>¡Jaime ha sido secuestrado!</h1>
+<p>Jaime Preciado (bajista de Pierce The Veil) fue secuestrado en un acto de odio por ser bajista. Tu misión es rescatarlo para que algún día pueda ser escuchado.</p>
+<form action='@Url.Action("IniciarRescatar", "Home")'>
+    <div class="centrar">
+        <input autocomplete="off" type="number" name="respuesta" placeholder="" required><br>
+        <div>
+            <input class="btn btn-primary" type="submit" name="Enviar">
+            <input class="btn btn-secondary" type="reset" name="Resetear">
+        </div>
+    </div>
+</form>
+<h1>@ViewBag.correccion</h1>

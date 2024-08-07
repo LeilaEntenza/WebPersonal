@@ -70,4 +70,16 @@ public class HomeController : Controller
             return View ("Nivel" + (Quiz.VerNivel()));
         } 
     }
+
+    public IActionResult IniciarRescatar(){
+        int r = Rescatar.generarRandom();
+        int rta;
+        string devolver;
+        do{
+            return View ("Rescatar");
+            devolver=Rescatar.devolverRespuesta(rta);
+            ViewBag.correccion=devolver;
+        
+        }while(devolver!="Es igual");
+    }
 }

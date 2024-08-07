@@ -73,13 +73,15 @@ public class HomeController : Controller
 
     public IActionResult IniciarRescatar(){
         int r = Rescatar.generarRandom();
-        int rta;
+        int rta, cantIntentos=0;
         string devolver;
         do{
             return View ("Rescatar");
             devolver=Rescatar.devolverRespuesta(rta);
-            ViewBag.correccion=devolver;
-        
+            if(cantIntentos>0){
+                ViewBag.correccion=devolver;
+            }
+            cantIntentos++;
         }while(devolver!="Es igual");
     }
 }
